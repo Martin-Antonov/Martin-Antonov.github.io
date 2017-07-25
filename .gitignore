@@ -1,0 +1,7 @@
+*.js
+*.d.ts
+*.map
+/.idea
+!app.js
+!lib/*
+/build
